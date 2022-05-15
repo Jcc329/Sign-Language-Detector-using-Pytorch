@@ -7,6 +7,8 @@ Final Project <br>
 ## Contents
 Due to the size, the model file and data cannot be uploaded to this repo. All notebooks for generating and annotating data, training the model and saving the model are available in the notebooks folder. Note that you will need to set up labelImgs in order to perform the annotation.
 
+Project presentation: https://youtu.be/tmu0Yl20hqU
+
 ## Overview
 
 The Deaf community and other hearing-impaired individuals often need to resort to carrying notepads and whiteboards with them or to using a translator to communicate with the hearing portions of society. As such, the burden to be understood is placed entirely on the deaf individual and can be especially limited when translators are not available. A program or app that could translate sign language into audible speech could go a long way in improving communication with the hearing population and reduce time and effort spent writing and reading messages. This could be particularly useful in a situation where there are no writing utensils available, translators are unavailable, or when an emergency is in progress and information needs to be shared quickly, such as in the case of an accident or medical emergency. First responders and medical personnel could potentially come prepared to communicate with deaf individuals or patients if this technology exists, and in turn, the Deaf community would be less dependent on translators. 
