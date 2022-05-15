@@ -1,8 +1,11 @@
 # Sign-Language-Detector-using-Pytorch
-Jessica Conroy
-UMBC Data Science
-Data 690: Practical AI
-Final Project
+Jessica Conroy <br>
+UMBC Data Science <br>
+Data 690: Practical AI <br>
+Final Project <br>
+
+## Contents
+Due to the size, the model file and data cannot be uploaded to this repo. All notebooks for generating and annotating data, training the model and saving the model are available in the notebooks folder. Note that you will need to set up labelImgs in order to perform the annotation.
 
 ## Overview
 
